@@ -1,4 +1,4 @@
-This application is a Trivia Quiz with True/False answers.
+This application is a Trivia Quiz with True/False answers and it was created 
 
 Requirements:
 - latest version of Python (app was created with version 3.13)
